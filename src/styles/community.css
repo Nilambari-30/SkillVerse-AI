@@ -1,0 +1,128 @@
+.community-page{
+
+padding:60px;
+
+text-align:center;
+
+}
+
+
+
+.community-page h1{
+
+font-size:45px;
+
+color:#7b4bb7;
+
+}
+
+
+
+.create-box{
+
+background:white;
+
+width:400px;
+
+margin:30px auto;
+
+padding:30px;
+
+border-radius:20px;
+
+box-shadow:0 10px 30px rgba(0,0,0,0.1);
+
+}
+
+
+
+.create-box input,
+.create-box textarea{
+
+width:90%;
+
+padding:12px;
+
+margin:10px;
+
+border-radius:10px;
+
+border:1px solid #ccc;
+
+}
+
+
+
+.create-box textarea{
+
+height:100px;
+
+}
+
+
+
+.create-box button,
+.project-card button{
+
+
+background:#7b4bb7;
+
+color:white;
+
+border:none;
+
+padding:12px 25px;
+
+border-radius:20px;
+
+cursor:pointer;
+
+
+}
+
+
+
+.project-grid{
+
+
+display:grid;
+
+grid-template-columns:repeat(auto-fit,minmax(280px,1fr));
+
+gap:25px;
+
+}
+
+
+
+.project-card{
+
+
+background:white;
+
+padding:25px;
+
+border-radius:20px;
+
+box-shadow:0 10px 25px rgba(0,0,0,0.1);
+
+
+}
+
+
+
+.project-card span{
+
+
+display:inline-block;
+
+background:#eee;
+
+padding:8px 15px;
+
+margin:5px;
+
+border-radius:20px;
+
+
+}
