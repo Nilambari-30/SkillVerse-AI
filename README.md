@@ -1,16 +1,40 @@
-# React + Vite
+# 🚀 SkillVerse AI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+SkillVerse AI is an AI-powered learning ecosystem designed to help students and professionals learn skills, track progress, build portfolios, and collaborate with others.
 
-Currently, two official plugins are available:
+## ✨ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- 🔐 User Authentication using Firebase
+- 📊 Personalized Learning Dashboard
+- 👤 User Profile Management
+- 🎯 Skill Explorer
+- 🛣️ Career Roadmaps
+- 🤝 Community Collaboration
+- ⭐ XP and Progress Tracking
 
-## React Compiler
+## 🛠️ Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### Frontend
+- React.js
+- JavaScript
+- CSS
 
-## Expanding the ESLint configuration
+### Backend & Database
+- Firebase Authentication
+- Firebase Firestore
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📸 Project Preview
+
+(Add screenshots here)
+
+## 🎯 Future Improvements
+
+- AI Mentor chatbot
+- Skill recommendations
+- Project matching system
+- Achievement badges
+- Learning analytics
+
+## 👩‍💻 Developer
+
+Nilambari
