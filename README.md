@@ -5,12 +5,13 @@ SkillVerse AI is an AI-powered learning ecosystem designed to help students and 
 ## ✨ Features
 
 - 🔐 User Authentication using Firebase
-- 📊 Personalized Learning Dashboard
-- 👤 User Profile Management
+- 📊 Personalized Dashboard
+- 👤 Profile Management
 - 🎯 Skill Explorer
 - 🛣️ Career Roadmaps
 - 🤝 Community Collaboration
-- ⭐ XP and Progress Tracking
+- ⭐ XP & Learning Progress Tracking
+- 🔥 Learning Streak System
 
 ## 🛠️ Tech Stack
 
@@ -18,23 +19,29 @@ SkillVerse AI is an AI-powered learning ecosystem designed to help students and 
 - React.js
 - JavaScript
 - CSS
+- React Router
 
 ### Backend & Database
 - Firebase Authentication
 - Firebase Firestore
 
-## 📸 Project Preview
+## 🎥 Project Demo
 
-(Add screenshots here)
+A complete working demonstration of SkillVerse AI is available in the LinkedIn post/video.
 
-## 🎯 Future Improvements
+## 🚀 Future Improvements
 
-- AI Mentor chatbot
-- Skill recommendations
-- Project matching system
+- AI Mentor Chatbot
+- Smart skill recommendations
+- Project partner matching
 - Achievement badges
-- Learning analytics
+- AI career guidance
+
+## 🎯 Project Goal
+
+SkillVerse AI aims to create a platform where learners can discover skills, follow career paths, track growth, and connect with other learners.
 
 ## 👩‍💻 Developer
 
-Nilambari
+Nilambari  
+Computer Engineering Student
